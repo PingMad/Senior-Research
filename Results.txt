@@ -1,0 +1,805 @@
+MD5 Encryption 
+
+Algorithm Type 
+
+# of Characters 
+
+Character Type 
+
+Cost 
+
+Plaintext Password 
+
+Password Results 
+
+MD5 
+
+12 
+
+Alphabetic 
+
+1 
+
+sightcontrol 
+
+6df02441828e5d794b8fb4de3a71e0e4 
+
+ 
+
+Brute Force Results 
+
+Algorithm Type 
+
+# of Characters 
+
+Character Type 
+
+Password Results 
+
+Brute Force Results 
+
+Password 
+
+Time 
+
+MD5 
+
+12 
+
+Alphabetic 
+
+6df02441828e5d794b8fb4de3a71e0e4 
+
+ 
+
+Not Found 
+
+- 
+
+6 Hours 
+
+ 
+
+MD5 Encryption 
+
+Algorithm Type 
+
+ 
+
+# of Characters 
+
+ 
+
+Character Type 
+
+ 
+
+Cost 
+
+ 
+
+Plaintext Password 
+
+ 
+
+Password Results 
+
+ 
+
+MD5 
+
+6 
+
+Alphabetic 
+
+1 
+
+blvndr 
+
+be01d34b460306d3a1a73c28729537ca 
+
+ 
+
+Brute Force Results 
+
+Algorithm Type 
+
+ 
+
+# of  
+
+Characters 
+
+Character Type 
+
+ 
+
+Password Results 
+
+ 
+
+Brute Force Results 
+
+ 
+
+Password 
+
+ 
+
+Time 
+
+ 
+
+MD5 
+
+6 
+
+Alphabetic 
+
+be01d34b460306d3a1a73c28729537ca 
+
+ 
+
+Found 
+
+blvndr 
+
+1 minute   43 seconds 
+
+ 
+
+ 
+
+ 
+
+MD5 Encryption 
+
+Algorithm Type 
+
+# of Characters 
+
+Character Type 
+
+Cost 
+
+Plaintext Password 
+
+Password Results 
+
+MD5 
+
+12 
+
+Numeric 
+
+1 
+
+847890234123 
+
+72ea7f808ce8e7c06c13f2201219be1b 
+
+ 
+
+Brute Force Results 
+
+Algorithm Type 
+
+# of Characters 
+
+Character Type 
+
+Password Results 
+
+Brute Force Results 
+
+Password 
+
+Time 
+
+MD5 
+
+12 
+
+Numeric 
+
+72ea7f808ce8e7c06c13f2201219be1b 
+
+ 
+
+Not Found 
+
+- 
+
+6 Hours 
+
+ 
+
+MD5 Encryption 
+
+Algorithm Type 
+
+# of Characters 
+
+Character Type 
+
+Cost 
+
+Plaintext Password 
+
+Password Results 
+
+MD5 
+
+5 
+
+Numeric 
+
+1 
+
+34684 
+
+2af6b176d618fcdcd130d32fcf2a14c0 
+
+ 
+
+Brute Force Results 
+
+Algorithm Type 
+
+# of Characters 
+
+Character Type 
+
+Password Results 
+
+Brute Force Results 
+
+Password 
+
+Time 
+
+MD5 
+
+5 
+
+Numeric 
+
+2af6b176d618fcdcd130d32fcf2a14c0 
+
+Found 
+
+34684 
+
+1 Hour and 4 Minutes 
+
+ 
+
+MD5 Encryption 
+
+Algorithm Type 
+
+# of Characters 
+
+Character Type 
+
+Cost 
+
+Plaintext Password 
+
+Password Results 
+
+MD5 
+
+12 
+
+Mixed 
+
+1 
+
+sightcontr10 
+
+c5265cc1f435284b155ff6354d92e60c 
+
+Brute Force Results 
+
+Algorithm Type 
+
+# of Characters 
+
+Character Type 
+
+Password Results 
+
+Brute Force Results 
+
+Password 
+
+Time 
+
+MD5 
+
+12 
+
+Mixed 
+
+c5265cc1f435284b155ff6354d92e60c 
+
+Not Found 
+
+- 
+
+6 Hours 
+
+ 
+
+MD5 Encryption 
+
+Algorithm Type 
+
+# of Characters 
+
+Character Type 
+
+Cost 
+
+Plaintext Password 
+
+Password Results 
+
+MD5 
+
+6 
+
+Mixed 
+
+1 
+
+blvn96 
+
+0de42fe35eb665861568572df0dd3594 
+
+ 
+
+Brute Force Results 
+
+Algorithm Type 
+
+# of Characters 
+
+Character Type 
+
+Password Results 
+
+Brute Force Results 
+
+Password 
+
+Time 
+
+MD5 
+
+6 
+
+Mixed 
+
+0de42fe35eb665861568572df0dd3594 
+
+Not Found 
+
+- 
+
+6 Hours 
+
+ 
+
+ 
+
+ 
+
+Bcrypt Encryption 
+
+Algorithm Type 
+
+# of Characters 
+
+Character Type 
+
+Cost 
+
+Plaintext Password 
+
+Password Results 
+
+Bcrypt 
+
+12 
+
+Alphabetic 
+
+1 
+
+sightcontrol 
+
+ 
+
+$2a$04$4Ul6QmBYeqBgyEnYaeMYF.iIEyUYQZ8l2uyzpzCMaEao4E34aW/C. 
+
+ 
+
+ 
+
+Brute Force Results 
+
+Algorithm Type 
+
+# of Characters 
+
+Character Type 
+
+Password Results 
+
+Brute Force Results 
+
+Password 
+
+Time 
+
+Bcrypt 
+
+12 
+
+Alphabetic 
+
+$2a$04$4Ul6QmBYeqBgyEnYaeMYF.iIEyUYQZ8l2uyzpzCMaEao4E34aW/C. 
+
+ 
+
+ 
+
+Found 
+
+sightcontrol 
+
+3 hours and 44 minutes 
+
+ 
+
+Bcrypt Encryption 
+
+Algorithm Type 
+
+# of Characters 
+
+Character Type 
+
+Cost 
+
+Plaintext Password 
+
+Password Results 
+
+Bcrypt 
+
+6 
+
+Alphabetic 
+
+1 
+
+blvndr 
+
+ 
+
+$2a$04$.xTJR4aaBJg9Gu9lgncTtelVx1u8PjyBfwzKAruhpo8cgIg1A9mK6 
+
+ 
+
+Brute Force Results 
+
+Algorithm Type 
+
+ 
+
+# of  
+
+Characters 
+
+Character Type 
+
+ 
+
+Password Results 
+
+ 
+
+Brute Force Results 
+
+ 
+
+Password 
+
+ 
+
+Time 
+
+ 
+
+Bcrypt 
+
+6 
+
+Alphabetic 
+
+$2a$04$.xTJR4aaBJg9Gu9lgncTtelVx1u8PjyBfwzKAruhpo8cgIg1A9mK6 
+
+ 
+
+Found 
+
+blvndr 
+
+2 Hours and 37 minutes 
+
+ 
+
+Bcrypt Encryption 
+
+Algorithm Type 
+
+# of Characters 
+
+Character Type 
+
+Cost 
+
+Plaintext Password 
+
+Password Results 
+
+Bcrypt 
+
+12 
+
+Numeric 
+
+1 
+
+847890234123 
+
+$2a$04$4ID7jQga10CbWK.GHPVAdOncSRP.0ywZs/bCNxJzDmJpu9XVXWhiu 
+
+ 
+
+Brute Force Results 
+
+Algorithm Type 
+
+# of Characters 
+
+Character Type 
+
+Password Results 
+
+Brute Force Results 
+
+Password 
+
+Time 
+
+Bcrypt 
+
+12 
+
+Numeric 
+
+$2a$04$4ID7jQga10CbWK.GHPVAdOncSRP.0ywZs/bCNxJzDmJpu9XVXWhiu 
+
+ 
+
+Not Found 
+
+- 
+
+6 Hours 
+
+ 
+
+Bcrypt Encryption 
+
+Algorithm Type 
+
+# of Characters 
+
+Character Type 
+
+Cost 
+
+Plaintext Password 
+
+Password Results 
+
+Bcrypt 
+
+5 
+
+Numeric 
+
+1 
+
+34684 
+
+$2a$04$IaNcFHqZViaD1pppr4Xbp.VJNK7eFBEOQV63p5zjwnPaYsHxSUM.2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Brute Force Results 
+
+Algorithm Type 
+
+# of Characters 
+
+Character Type 
+
+Password Results 
+
+Brute Force Results 
+
+Password 
+
+Time 
+
+Bcrypt 
+
+5 
+
+Numeric 
+
+$2a$04$IaNcFHqZViaD1pppr4Xbp.VJNK7eFBEOQV63p5zjwnPaYsHxSUM.2 
+
+ 
+
+Found 
+
+34684 
+
+55 minutes 
+
+ 
+
+Bcrypt Encryption 
+
+Algorithm Type 
+
+# of Characters 
+
+Character Type 
+
+Cost 
+
+Plaintext Password 
+
+Password Results 
+
+Bcrypt 
+
+12 
+
+Mixed 
+
+1 
+
+sightcontr10 
+
+$2a$04$ooA55HTA3yrJ.6Cw2D.QGevGrJA47s5oCOzpVALZs7H79MlW/dQVy 
+
+ 
+
+Brute Force Results 
+
+Algorithm Type 
+
+# of Characters 
+
+Character Type 
+
+Password Results 
+
+Brute Force Results 
+
+Password 
+
+Time 
+
+Bcrypt 
+
+12 
+
+Mixed 
+
+$2a$04$ooA55HTA3yrJ.6Cw2D.QGevGrJA47s5oCOzpVALZs7H79MlW/dQVy 
+
+ 
+
+Not Found 
+
+- 
+
+6 Hours 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bcrypt Encryption 
+
+Algorithm Type 
+
+# of Characters 
+
+Character Type 
+
+Cost 
+
+Plaintext Password 
+
+Password Results 
+
+Bcrypt 
+
+6 
+
+Mixed 
+
+1 
+
+blvn96 
+
+$2a$04$D8LxejE3I9XKR89d4QMZlewJQisRCWJXd9aLTjwMk0Of8nz5Eamm6 
+
+ 
+
+Brute Force Results 
+
+Algorithm Type 
+
+# of Characters 
+
+Character Type 
+
+Password Results 
+
+Brute Force Results 
+
+Password 
+
+Time 
+
+Bcrypt 
+
+6 
+
+Mixed 
+
+$2a$04$D8LxejE3I9XKR89d4QMZlewJQisRCWJXd9aLTjwMk0Of8nz5Eamm6 
+
+Not Found 
+
+- 
+
+6 Hours 
+
+ 
